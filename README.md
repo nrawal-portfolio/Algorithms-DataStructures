@@ -2,7 +2,7 @@
 
 Purpose: To display proficiency in data structures and alogrithms  
 
-Agenda: This repository represents a series of alogorithms and data structures I programmed in python. 
+Agenda: This repository represents a series of algorithms and data structures I programmed in python. 
 
 List of Algorithms:
 
